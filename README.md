@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Salut+👋+Je+suis+Yondemon4266;Étudiant+à+l'École+42;Passionné+de+Programmation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Salut+👋+Je+suis+Yondemon4266;Étudiant+à+l'École+42;Passionné+d'informatique" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Développeur en Formation | École 42 🚀</h3>
@@ -15,7 +15,7 @@
 Je suis actuellement étudiant à l'**École 42**, où j'apprends la programmation de manière intensive et collaborative. Passionné par le code et la résolution de problèmes, je développe mes compétences en informatique à travers des projets concrets et stimulants.
 
 - 🎓 **Étudiant à l'École 42**
-- 💻 **Passionné de programmation**
+- 💻 **Passionné d'informatique**
 - 🌱 **En apprentissage continu**
 - 🎯 **Objectif:** Devenir un développeur compétent et polyvalent
 
@@ -60,18 +60,6 @@ Je suis actuellement étudiant à l'**École 42**, où j'apprends la programmati
 </p>
 
 L'École 42 est une école d'informatique innovante qui propose une pédagogie basée sur le **peer-learning** (apprentissage par les pairs) et des projets pratiques. Pas de cours magistraux, pas de professeurs : l'apprentissage se fait en autonomie et en collaboration avec les autres étudiants.
-
----
-
-### 💡 Citation Favorite
-
-<p align="center">
-  <i>"Le code est comme l'humour. Quand vous devez l'expliquer, c'est qu'il est mauvais."</i>
-  <br>
-  <b>– Cory House</b>
-</p>
-
----
 
 ### 📫 Me Contacter
 
